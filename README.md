@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @mekdimd
-- 👀 I’m interested in opportunities to gain programming experience.
-- 🌱 I’m currently in the process of obtaining a Software Systems degree at SFU.
+- 👋 Hi, My name is Mekdim Dereje
+- 👀 I’m interested in software development opportunities
+- 🌱 I’m currently in the process of obtaining a Software Systems bachelor's at SFU.
 - 💞️ I’m looking to collaborate on projects with others!
-- 📫 You can reach me at mekdimd@gmail.com
+- 📫 You can reach me at mekdimd@gmail.com for any inquiries
 
 <!---
 mekdimd/mekdimd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
