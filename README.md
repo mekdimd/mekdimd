@@ -2,7 +2,7 @@
 <!--README template: https://github.com/akasrai/akasrai/blob/master/README.md-->
 <!----------------------------------------------------------------------------->
 
-<h3 align="center"> Hi, I'm Mekdim 👋🏾</h3>
+<h2 align="center"> Hi, I'm Mekdim 👋🏾</h2>
 <p align="center">A self-motivated tech enthusiast and Software Developer</p>
 
 <h4 align="center">
