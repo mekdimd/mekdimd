@@ -3,7 +3,7 @@
 <!----------------------------------------------------------------------------->
 
 <h3 align="center"> Hi there 👋</h3>
-<p align="center">I'm Mekdim, a self-motivated tech enthusiast and Aspiring Software Developer</p>
+<p align="center">I'm Mekdim, a self-motivated tech enthusiast and Software Developer</p>
 
 <h4 align="center">
   💻 Software Developer <a href="https://www.vch.ca/">@Vancouver Coastal Health</a> | 🎓 CS (Software Systems) @SFU
