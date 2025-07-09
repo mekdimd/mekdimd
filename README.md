@@ -1,6 +1,40 @@
-# Hi, I'm Mekdim!
-- 👋 My name is Mekdim Dereje
-- 👀 I’m interested in software development opportunities
-- 🌱 I’m currently in the process of obtaining a CS Software Systems bachelor's at SFU.
-- 💞️ I’m looking to collaborate on projects with others!
-- 📫 You can reach me at mda89@sfu.ca for any inquiries
+<!----------------------------------------------------------------------------->
+<!--README template: https://github.com/akasrai/akasrai/blob/master/README.md-->
+<!----------------------------------------------------------------------------->
+
+<h3 align="center"> Hi there 👋</h3>
+<p align="center">I'm Mekdim, a self-motivated tech enthusiast and full-stack web developer.</p>
+
+<h4 align="center">
+  💻 Software Developer <a href="https://www.vch.ca/">@Vancouver Coastal Health</a> | 🎓 CS (Software Systems) @SFU
+</h4>
+
+<p align="center">
+  <!--Github-->
+  <a href="https://github.com/mekdimd">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github">    
+  </a>
+  
+  <!--LinkedIn-->
+  <a href="https://www.linkedin.com/in/mekdimd"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
+
+<!--TODO: Use icons from https://github.com/alexandresanlim/Badges4-README.md-Profile-->
+
+<!--
+
+  <h3 align="center">Tech Stacks</h3>
+  <br/>
+  
+  <p align="center">
+    🖥️ JavaScript | TypeScript | Python | C++ <br/>
+    🧰 React | Node.js | Express | PostgreSQL | MongoDB <br/>
+    ☁️ Firebase | Docker | Git & GitHub | CI/CD <br/>
+    💡 Passionate about clean code, teamwork, and building impactful solutions
+  </p>
+
+-->
+
+
