@@ -2,8 +2,8 @@
 <!--README template: https://github.com/akasrai/akasrai/blob/master/README.md-->
 <!----------------------------------------------------------------------------->
 
-<h3 align="center"> Hi there 👋</h3>
-<p align="center">I'm Mekdim, a self-motivated tech enthusiast and Software Developer</p>
+<h3 align="center"> Hi, I'm Mekdim 👋🏾</h3>
+<p align="center">A self-motivated tech enthusiast and Software Developer</p>
 
 <h4 align="center">
   💻 Software Developer <a href="https://www.vch.ca/">@Vancouver Coastal Health</a> | 🎓 CS (Software Systems) @SFU
