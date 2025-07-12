@@ -27,7 +27,7 @@
 
   <h3 align="center">Tech Stacks</h3>
   <br/>
-  
+
   <p align="center">
     🖥️ JavaScript | TypeScript | Python | C++ <br/>
     🧰 React | Node.js | Express | PostgreSQL | MongoDB <br/>
@@ -36,5 +36,3 @@
   </p>
 
 -->
-
-
