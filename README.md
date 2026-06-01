@@ -3,10 +3,13 @@
 <!----------------------------------------------------------------------------->
 
 <h3 align="center"> Hi, I'm Mekdim 👋🏾</h3>
-<p align="center">A self-motivated tech enthusiast and Software Developer</p>
+<!-- <p align="center">A self-motivated tech enthusiast and Software Developer</p> -->
+<p align="center">
+  Passionate about software engineering and building products that solve real problems
+</p>
 
 <h4 align="center">
-  💻 Prev Software Developer <a href="https://www.vch.ca/">@Vancouver Coastal Health</a> | 🎓 CS (Software Systems) @ SFU
+  💻 Software Engineer Intern @ <a href="https://www.sap.com/canada/index.html">SAP</a> | 🎓 CS @ SFU
 </h4>
 
 <p align="center">
