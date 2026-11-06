@@ -3,13 +3,17 @@
 <!----------------------------------------------------------------------------->
 
 <h3 align="center"> Hi, I'm Mekdim 👋🏾</h3>
+<div align="center">
+  <img width="480" height="480" alt="spiderman" src="https://github.com/user-attachments/assets/00a93398-1463-4f6d-847f-6fafac3795f3" />
+</div>
+
 <!-- <p align="center">A self-motivated tech enthusiast and Software Developer</p> -->
 <p align="center">
   Passionate about software engineering and building products that solve real problems
 </p>
 
 <h4 align="center">
-  💻 Software Engineer Intern @ <a href="https://www.sap.com/canada/index.html">SAP</a> | 🎓 CS @ SFU
+  💻 SWE Intern @ <a href="https://www.sap.com/canada/index.html">SAP</a> | 🎓 CS @ SFU
 </h4>
 
 <p align="center">
@@ -25,6 +29,7 @@
 </p>
 
 <!--TODO: Use icons from https://github.com/alexandresanlim/Badges4-README.md-Profile-->
+
 
 <!--
 
