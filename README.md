@@ -23,8 +23,12 @@
   </a>
 </p>
 
+<!------------------------------->
+
+<!-- IMAGE -->
 <div align="center">
-  <img width="300" height="300" alt="spiderman" src="https://github.com/user-attachments/assets/00a93398-1463-4f6d-847f-6fafac3795f3" />
+  <!-- <img width="300" height="300" alt="spiderman" src="https://github.com/user-attachments/assets/00a93398-1463-4f6d-847f-6fafac3795f3" /> -->
+  <img width="300" height="300" alt="Miles Morales" src="https://github.com/user-attachments/assets/30a19fae-dd58-430b-a07d-7d8454aa3bcf" />
 </div>
 
 <!--TODO: Use icons from https://github.com/alexandresanlim/Badges4-README.md-Profile-->
