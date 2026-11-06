@@ -1,6 +1,6 @@
-<!----------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------->
 <!-- README template: https://github.com/akasrai/akasrai/blob/master/README.md -->
-<!----------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------->
 
 <table>
   <tr>
@@ -16,11 +16,10 @@
       <!-- <img width="300" height="300" alt="spiderman" src="https://github.com/user-attachments/assets/00a93398-1463-4f6d-847f-6fafac3795f3" /> -->
     </td>
     <!-- RIGHT SIDE: INTRODUCTION -->
-    <td width="65%" align="center" valign="middle">
+    <td width="65%" align="left" valign="middle">
       <h3>Hi, I'm Mekdim 👋🏾</h3>
       <p>
-        Passionate about software engineering and building products
-        that solve real problems
+        Passionate about building cool software that solve real problems
       </p>
       <h4>
         💻 SWE Intern @
