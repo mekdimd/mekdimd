@@ -19,21 +19,23 @@
     <td width="65%" align="left" valign="middle">
       <h3>Hi, I'm Mekdim 👋🏾</h3>
       <p>
-        Passionate about building cool software that solve real problems
+        Passionate about building cool software that solves real problems
       </p>
-      <h4>
-        💻 SWE Intern @
-        <a href="https://www.sap.com/canada/index.html">SAP</a>
-        | 🎓 CS @ SFU
-      </h4>
-      <p>
-        <a href="https://github.com/mekdimd">
-          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-        </a>
-        <a href="https://www.linkedin.com/in/mekdimd">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-        </a>
-      </p>
+      <div align="center">
+        <h4>
+          💻 SWE Intern @
+          <a href="https://www.sap.com/canada/index.html">SAP</a>
+          | 🎓 CS @ SFU
+        </h4>
+        <p>
+          <a href="https://github.com/mekdimd">
+            <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+          </a>
+          <a href="https://www.linkedin.com/in/mekdimd">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+          </a>
+        </p>
+      </div>
     </td>
   </tr>
 </table>
