@@ -16,26 +16,28 @@
       <!-- <img width="300" height="300" alt="spiderman" src="https://github.com/user-attachments/assets/00a93398-1463-4f6d-847f-6fafac3795f3" /> -->
     </td>
     <!-- RIGHT SIDE: INTRODUCTION -->
-    <td width="65%" align="left" valign="middle">
+    <td width="65%" align="center" valign="middle">
       <h3>Hi, I'm Mekdim 👋🏾</h3>
+      <p>Passionate about building cool software that solves real problems</p>
+      <h4>
+        💻 SWE Intern @
+        <a href="https://www.sap.com/canada/index.html">SAP</a>
+        | 🎓 CS @ SFU
+      </h4>
       <p>
-        Passionate about building cool software that solves real problems
+        <a href="https://github.com/mekdimd">
+          <img
+            src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
+            alt="GitHub"
+          />
+        </a>
+        <a href="https://www.linkedin.com/in/mekdimd">
+          <img
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+            alt="LinkedIn"
+          />
+        </a>
       </p>
-      <div align="center">
-        <h4>
-          💻 SWE Intern @
-          <a href="https://www.sap.com/canada/index.html">SAP</a>
-          | 🎓 CS @ SFU
-        </h4>
-        <p>
-          <a href="https://github.com/mekdimd">
-            <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-          </a>
-          <a href="https://www.linkedin.com/in/mekdimd">
-            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-          </a>
-        </p>
-      </div>
     </td>
   </tr>
 </table>
